@@ -38,4 +38,4 @@ Clicking on the company logo in the dashboard will redirect users to the publicl
 This Tableau dashboard offers a dynamic, interactive platform for analyzing key business metrics, including profit margin, return rate, and sales. Its flexible design, combined with customizable metrics and filtering options, makes it a powerful tool for driving data-driven business decisions.
 
 
-![Superstore_dashboard](https://github.com/user-attachments/assets/1259079d-5033-4c28-922b-62c6eea0310c)
+![Analytical_report_tableau](https://github.com/user-attachments/assets/53dde5b4-9338-42c1-a73a-fa62661e44f7)
