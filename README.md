@@ -1,5 +1,8 @@
 # Analytics_report_for-_Superstore_USA
+
 Overview
+
+
 This Tableau dashboard provides a detailed and interactive analysis of key business metrics, enabling users to explore sales performance, profitability, and return rates. With dynamic visualizations and filters, the dashboard offers an easy-to-use interface for examining and interpreting data in real-time.
 
 
