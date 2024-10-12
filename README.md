@@ -22,7 +22,7 @@ A Metric Parameter allows users to toggle between three key metrics: Sales, Prof
    
 The dashboard includes filters for Year and Region, which allow users to refine their analysis based on time periods or specific geographic areas. A button is provided to show or hide these filters as needed.
 
-5. Top 5 Products
+4. Top 5 Products
    
 Regardless of the selected metric or filters, the dashboard consistently highlights the Top 5 Products based on the chosen metric. This ensures that users always have a quick view of the best-performing products.
 
